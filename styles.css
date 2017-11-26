@@ -4,6 +4,8 @@ body { min-height: 100%; }
 body{
 
     font-family: 'Raleway', sans-serif;    
+    background: -webkit-linear-gradient(225deg,#71A8C6,#E0FAFC);
+    background: -o-linear-gradient(225deg,#71A8C6,#E0FAFC);
     background: linear-gradient(225deg,#71A8C6,#E0FAFC);
     margin:0;
 }
